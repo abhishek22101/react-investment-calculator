@@ -14,8 +14,6 @@ The **Investment Calculator** is a web application designed to help users calcul
 - **Frontend**: React, JavaScript (ES6+), CSS
 - **State Management**: React's `useState`, `useEffect`
 - **APIs**: Custom API to handle investment calculations
-- **Payment Integration**: Stripe & RevenueCat for subscription management
-- **Testing**: Jest (for unit testing components)
 
 ## Setup
 
